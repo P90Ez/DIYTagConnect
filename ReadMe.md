@@ -1,7 +1,7 @@
 # DIY TagConnect TC2050
 
 > This is a work in progress.
-> I would not recommend to use the Rev1.0 ([details below](#notes-on-rev10))\
+> I would not recommend to use Rev1.0 ([details below](#notes-on-rev10)).\
 > Will update this repo with a Rev1.1 and a leg-less version once I find some time.
 
 Want to use the TagConnect connector for flashing and debugging on your PCB, but don't have a TC2050 cable, nor a compatible debug device (like a JLink)? 
@@ -47,17 +47,17 @@ Making the holes in the PCB large enough for soldering the cables directly to it
 
 ### First Assembly
 
-I assembled the connected, as described in [Assembly](#assembly). Here is how it went:
+I assembled the connector, as described in [Assembly](#assembly). Here is how it went:
 
-First things first I soldered the pogo pins to the PCB using the spacer. This worked great. The spacer melted in the process, as it was printed with PLA. Make sure to remove the spacer from the pins while it's still hot, otherwise you may not be able to easily remove it.
+First things first, I soldered the pogo pins to the PCB using the spacer. This worked great. The spacer melted in the process, as it was printed with PLA. Make sure to remove the spacer from the pins while they are still hot, otherwise you may not be able to easily remove it.
 
 ![](./Pictures/26-05-14%2019-43-36%202745.jpg)
 ![](./Pictures/26-05-14%2019-51-22%202746.jpg)
 
-After that I inserted the heat insert into the housing. Make sure to not completely melt it. I luckily was able to bend it back into shape before it cooled down. Therefore the damage wasn't that bad.
+After that I inserted the heat insert into the housing. Make sure to not melt the housing. I luckily was able to bend it back into shape before it cooled down. Therefore the damage wasn't that bad.
 
 ![](./Pictures/26-05-14%2019-53-35%202747.jpg)
 ![](./Pictures/26-05-14%2019-55-46%202748.jpg)
 
-After screwing the PCB to the housing, I decided it would be nicer to solder pin headers to it instead of directly soldering the cables onto it. Therefore it looks a bit scuffed^^
+After screwing the PCB to the housing, I decided it would be nicer to solder pin headers to it, instead of directly soldering the cables onto it. Therefore it looks a bit scuffed^^
 ![](./Pictures/26-05-14%2020-17-01%202750.jpg)
